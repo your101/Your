@@ -6,9 +6,7 @@ pkg install python
 
 pkg install python-pip
 
-git clone https://github.com/your101
-
-cd yourProperty
+git clone https://github.com/your101/Your
 
 git pull
 
